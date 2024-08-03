@@ -26,16 +26,3 @@ Welcome to the MERN Finance Dashboard App! This project integrates modern web de
 
 
 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to contact us for any questions or feedback. Happy coding!
-
----
-
-**Note:** Replace `yourusername` with your actual GitHub username and update the image paths in the Screenshots section as necessary.
-
